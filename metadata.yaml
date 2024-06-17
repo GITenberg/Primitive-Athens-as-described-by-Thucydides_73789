@@ -1,5 +1,8 @@
 _repo: Primitive-Athens-as-described-by-Thucydides_73789
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73789-h/images/cover-deco.jpg
 creator:
   author:
     agent_name: Harrison, Jane Ellen
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7130
     wikipedia: https://en.wikipedia.org/wiki/Jane_Ellen_Harrison
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73789#Primitive-Athens-as-described-by-Thucydides
 gutenberg_issued: '2024-06-07'
 gutenberg_type: Text
 identifiers:
